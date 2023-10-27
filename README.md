@@ -14,7 +14,13 @@
   λ<sub>1</sub> = 0.1V<sup>-1</sup> <br>
   λ<sub>2</sub> = 0.2V<sup>-1</sup>
 
+## SCHEMATIC
+![current_mirror](https://github.com/SahilPrabhu/Current_Mirror_ACD/assets/92974277/5e0b3056-af67-4e3d-a8ef-9807e3a03172)
+
+
 ## DC ANALYSIS
+![dc_analysis](https://github.com/SahilPrabhu/Current_Mirror_ACD/assets/92974277/aef43d4a-d62a-44ad-adda-dd4d30815268)
 
 
 ## TRANSIENT ANALYSIS
+![transient_analysis](https://github.com/SahilPrabhu/Current_Mirror_ACD/assets/92974277/c07758da-3e44-4e14-9fcc-c65556034a2f)
