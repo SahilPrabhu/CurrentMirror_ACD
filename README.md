@@ -1,4 +1,4 @@
-# Current_Mirror_ACD
+# CurrentMirror_ACD
 
 The current mirror is an analog circuit that senses the reference current and generates the copy or number of copies of the reference current, with the same characteristics. The replicated current is as stable as the reference current source. The replicated current could be the same as the reference current (Icopy = IREF), or it could be either multiple or fraction of the reference current.<br> I<sub>2</sub> = [ (W/L)<sub>2</sub>/(W/L)<sub>1</sub> ]*I<sub>ref</sub> 
 
